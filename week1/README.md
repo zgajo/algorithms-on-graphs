@@ -9,4 +9,5 @@
 ![Alt text](./Screenshot%20from%202020-07-19%2017-18-54.png "Title")
 
 
-Problem 2
+### PROBLEM 2 - Connected components
+![Alt text](./ "Title")
